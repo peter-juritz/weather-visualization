@@ -173,6 +173,6 @@ if __name__== "__main__":
     fig1.savefig("temp_humid.png", dpi=100, facecolor=(0.92,0.92,0.92))
 
     fig2.set_size_inches(16.5, 9, forward=True)
-    fig2.savefig("year_temp.png", dpi=150, facecolor=(0.92,0.92,0.92))
+    fig2.savefig("year_temp.png", dpi=150, facecolor=(1.0,1.0,1.0))
 
     plt.show()
